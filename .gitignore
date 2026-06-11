@@ -1,0 +1,56 @@
+# Gradle files
+.gradle/
+build/
+app/build/
+**/build/
+
+# Local properties (SDK path, etc.)
+local.properties
+*.properties
+!gradle-wrapper.properties
+
+# Android Studio project files
+*.iml
+.idea/
+*.iws
+*.ipr
+.DS_Store
+
+# Output directories
+out/
+release/
+
+# Proguard
+proguard/
+
+# Google services
+google-services.json
+
+# Key store files
+*.jks
+*.keystore
+
+# Generated files
+app/src/main/java/com/karaoke/app/BuildConfig.java
+
+# Kotlin coroutines metadata
+.kotlin/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+__MACOSX/
+
+# Windows
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
