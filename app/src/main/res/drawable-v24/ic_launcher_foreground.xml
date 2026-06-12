@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <path
+        android:fillColor="#1A0A2E"
+        android:pathData="M0,0h108v108h-108z" />
+
+    <!-- Microphone body -->
+    <path
+        android:fillColor="#E040FB"
+        android:pathData="M54,20 C47.4,20 42,25.4 42,32 L42,54 C42,60.6 47.4,66 54,66 C60.6,66 66,60.6 66,54 L66,32 C66,25.4 60.6,20 54,20 Z" />
+
+    <path
+        android:fillColor="#E040FB"
+        android:pathData="M35,54 C35,64.5 43.5,73 54,73 C64.5,73 73,64.5 73,54 L69,54 C69,62.3 62.3,69 54,69 C45.7,69 39,62.3 39,54 Z" />
+    <rect
+        android:fillColor="#E040FB"
+        android:height="8"
+        android:width="4"
+        android:x="52"
+        android:y="73" />
+    <rect
+        android:fillColor="#E040FB"
+        android:height="4"
+        android:width="16"
+        android:x="46"
+        android:y="81" />
+
+    <path
+        android:fillColor="#CE93D8"
+        android:pathData="M75,28 L75,38 L71,39 L71,29 Z" />
+    <circle
+        android:fillColor="#CE93D8"
+        android:cx="69.5"
+        android:cy="40"
+        android:r="2.5" />
+    <circle
+        android:fillColor="#CE93D8"
+        android:cx="73.5"
+        android:cy="39"
+        android:r="2.5" />
+</vector>

@@ -1,0 +1,6 @@
+-keep class com.karaoke.app.data.remote.dto.** { *; }
+-keep class com.karaoke.app.domain.model.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
+-dontwarn retrofit2.**

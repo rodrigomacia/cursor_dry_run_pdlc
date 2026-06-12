@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KaraokeApp</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_download">Download</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home Screen -->
+    <string name="home_welcome">Bem-vindo ao KaraokeApp</string>
+    <string name="home_recent">Tocadas recentemente</string>
+    <string name="home_featured">Músicas em destaque</string>
+    <string name="home_start_singing">Começar a cantar</string>
+
+    <!-- Library -->
+    <string name="library_title">Biblioteca</string>
+    <string name="library_empty">Nenhuma música encontrada</string>
+    <string name="library_scan">Escanear músicas</string>
+    <string name="library_search_hint">Buscar por título ou artista</string>
+    <string name="library_sort">Ordenar</string>
+
+    <!-- Player -->
+    <string name="player_title">Karaokê</string>
+    <string name="player_no_lyrics">Letra não disponível</string>
+    <string name="player_score">Pontuação</string>
+    <string name="player_mic_on">Microfone ativado</string>
+    <string name="player_mic_off">Microfone desativado</string>
+
+    <!-- Download -->
+    <string name="download_title">Baixar Músicas</string>
+    <string name="download_search_hint">Buscar músicas para baixar</string>
+    <string name="download_free_songs">Músicas gratuitas (Jamendo)</string>
+    <string name="download_downloading">Baixando…</string>
+    <string name="download_complete">Download concluído</string>
+    <string name="download_failed">Falha no download</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Configurações</string>
+    <string name="settings_audio">Áudio</string>
+    <string name="settings_pitch_sensitivity">Sensibilidade de afinação</string>
+    <string name="settings_microphone_gain">Ganho do microfone</string>
+    <string name="settings_display">Exibição</string>
+    <string name="settings_font_size">Tamanho da fonte da letra</string>
+    <string name="settings_lyrics_color">Cor da letra ativa</string>
+    <string name="settings_scoring">Pontuação</string>
+    <string name="settings_enable_scoring">Ativar pontuação</string>
+    <string name="settings_show_pitch_guide">Mostrar guia de afinação</string>
+    <string name="settings_storage">Armazenamento</string>
+    <string name="settings_download_path">Pasta de downloads</string>
+    <string name="settings_clear_cache">Limpar cache</string>
+    <string name="settings_about">Sobre</string>
+    <string name="settings_version">Versão</string>
+    <string name="settings_licenses">Licenças open source</string>
+
+    <!-- Permissions -->
+    <string name="permission_mic_title">Permissão de microfone</string>
+    <string name="permission_mic_message">O acesso ao microfone é necessário para a função de pontuação de karaokê.</string>
+    <string name="permission_storage_title">Permissão de armazenamento</string>
+    <string name="permission_storage_message">O acesso ao armazenamento é necessário para escanear suas músicas locais.</string>
+    <string name="permission_grant">Conceder</string>
+    <string name="permission_deny">Negar</string>
+
+    <!-- Errors -->
+    <string name="error_loading_songs">Erro ao carregar músicas</string>
+    <string name="error_no_internet">Sem conexão com a internet</string>
+    <string name="error_lyrics_not_found">Letra não encontrada</string>
+
+    <!-- Actions -->
+    <string name="action_play">Tocar</string>
+    <string name="action_pause">Pausar</string>
+    <string name="action_next">Próxima</string>
+    <string name="action_previous">Anterior</string>
+    <string name="action_shuffle">Aleatório</string>
+    <string name="action_repeat">Repetir</string>
+    <string name="action_favorite">Favoritar</string>
+    <string name="action_download">Baixar</string>
+    <string name="action_delete">Excluir</string>
+    <string name="action_share">Compartilhar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_ok">OK</string>
+    <string name="action_retry">Tentar novamente</string>
+</resources>
